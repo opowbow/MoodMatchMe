@@ -1,0 +1,7 @@
+{
+  "name": "MoodMatchMe",
+  "description": "A mood-based movie recommender. Upload a photo, video, or type a phrase to get personalized movie suggestions from the catalog.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
